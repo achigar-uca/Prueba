@@ -1,5 +1,5 @@
 # Autoría
-Alejandro de la Chica García
+Alejandro
 # Área 
 Trabajo Social orientado a personas mayores.
 # Tema 
